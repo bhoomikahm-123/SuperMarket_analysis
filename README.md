@@ -1,4 +1,5 @@
 🛒 Supermarket Sales Analysis Project
+
 📌 Objective
 This project analyzes transactional data from a supermarket to derive meaningful insights on product performance, customer behavior, seasonal trends, and profitability using Microsoft Excel (without Power Query).
 
@@ -86,3 +87,7 @@ Top Category: Category04
 Top Sales Channel: Direct Sales
 
 Top Payment Method: Online
+
+🔗 Project File
+
+- [Download Excel file here](SuperMarket_Analysis.xlsx)
